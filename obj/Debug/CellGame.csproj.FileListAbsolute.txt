@@ -9,3 +9,14 @@ C:\Users\matve\OneDrive\Рабочий стол\папки\c# prj\CellGame\obj\D
 C:\Users\matve\OneDrive\Рабочий стол\папки\c# prj\CellGame\obj\Debug\CellGame.csproj.CoreCompileInputs.cache
 C:\Users\matve\OneDrive\Рабочий стол\папки\c# prj\CellGame\obj\Debug\MyGameOfLife.exe
 C:\Users\matve\OneDrive\Рабочий стол\папки\c# prj\CellGame\obj\Debug\MyGameOfLife.pdb
+C:\Users\matve\OneDrive\Документы\GitHub\Simple-Cell-Game\bin\Debug\MyGameOfLife.exe.config
+C:\Users\matve\OneDrive\Документы\GitHub\Simple-Cell-Game\bin\Debug\MyGameOfLife.exe
+C:\Users\matve\OneDrive\Документы\GitHub\Simple-Cell-Game\bin\Debug\MyGameOfLife.pdb
+C:\Users\matve\OneDrive\Документы\GitHub\Simple-Cell-Game\obj\Debug\CellGame.csproj.AssemblyReference.cache
+C:\Users\matve\OneDrive\Документы\GitHub\Simple-Cell-Game\obj\Debug\CellGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\matve\OneDrive\Документы\GitHub\Simple-Cell-Game\obj\Debug\CellGame.Form1.resources
+C:\Users\matve\OneDrive\Документы\GitHub\Simple-Cell-Game\obj\Debug\MyGameOfLife.Properties.Resources.resources
+C:\Users\matve\OneDrive\Документы\GitHub\Simple-Cell-Game\obj\Debug\CellGame.csproj.GenerateResource.cache
+C:\Users\matve\OneDrive\Документы\GitHub\Simple-Cell-Game\obj\Debug\CellGame.csproj.CoreCompileInputs.cache
+C:\Users\matve\OneDrive\Документы\GitHub\Simple-Cell-Game\obj\Debug\MyGameOfLife.exe
+C:\Users\matve\OneDrive\Документы\GitHub\Simple-Cell-Game\obj\Debug\MyGameOfLife.pdb

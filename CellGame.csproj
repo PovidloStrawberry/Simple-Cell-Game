@@ -48,12 +48,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cell.cs" />
+    <Compile Include="CellCreator.cs" />
+    <Compile Include="Field.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Mushroom.cs" />
+    <Compile Include="Parasite.cs" />
+    <Compile Include="Plant.cs" />
+    <Compile Include="Predator.cs" />
+    <Compile Include="Predator_Blue.cs" />
+    <Compile Include="Predator_Red.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
